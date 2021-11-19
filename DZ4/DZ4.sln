@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadacha1", "Zadacha1.csproj", "{0A384DA2-2588-42D0-91F4-CCD25C00726F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadacha2", "..\Zadacha2\Zadacha2.csproj", "{244C1021-3F87-43AD-A4AD-7EDF2FE10F9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha3", "..\Zadacha3\Zadacha3.csproj", "{95CAE3B8-8EC4-4C31-9879-B18598CB0316}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A384DA2-2588-42D0-91F4-CCD25C00726F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A384DA2-2588-42D0-91F4-CCD25C00726F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A384DA2-2588-42D0-91F4-CCD25C00726F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A384DA2-2588-42D0-91F4-CCD25C00726F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{244C1021-3F87-43AD-A4AD-7EDF2FE10F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{244C1021-3F87-43AD-A4AD-7EDF2FE10F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{244C1021-3F87-43AD-A4AD-7EDF2FE10F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{244C1021-3F87-43AD-A4AD-7EDF2FE10F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95CAE3B8-8EC4-4C31-9879-B18598CB0316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95CAE3B8-8EC4-4C31-9879-B18598CB0316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95CAE3B8-8EC4-4C31-9879-B18598CB0316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95CAE3B8-8EC4-4C31-9879-B18598CB0316}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EF4137F-5038-4214-BAAB-93D414452328}
+	EndGlobalSection
+EndGlobal
